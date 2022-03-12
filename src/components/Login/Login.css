@@ -1,0 +1,27 @@
+.img_container{
+    padding-right: 10%;
+    height: 100vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form_container{
+    
+    height: 100vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.titletext{
+    padding: 10%;
+}
+.logotext{
+    padding-left: 10%;
+    color: white;
+}
+.freeTrial{
+    display: flex;
+  justify-content: right;
+  align-items: right;
+  padding: 1%;
+}
